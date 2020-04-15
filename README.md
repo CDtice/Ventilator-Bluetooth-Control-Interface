@@ -11,4 +11,4 @@ for BT Android phone interface
 *** Disclaimer ***
 
 Current design does not comply with the “Relaxed FDA Emergency Regulations for BiPAP and CPAP Machines.”
-Use repository information at own risk. I further encourage anyone considering using the ideas presented here to first familiar themselves with professional respiratory ventilator, CPAP, BiPAP designs and principles before using.
+Use repository information at your own risk. I further encourage anyone considering using the ideas presented here to first familiar themselves with professional respiratory ventilator, CPAP, BiPAP designs and principles before using.

@@ -1,6 +1,6 @@
 # Ventilator Bluetooth Control Interface
  
-Simple Android Phone Interface for Arduino Based Ventilator. 
+Simple Bluetooth Android Phone Interface for Arduino Based Ventilator. 
 
 Supports CPAP, BiPAP, And Breath Sync Modes
 

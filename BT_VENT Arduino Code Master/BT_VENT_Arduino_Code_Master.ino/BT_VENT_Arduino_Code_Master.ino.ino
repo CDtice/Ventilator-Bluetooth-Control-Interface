@@ -25,7 +25,7 @@ int BEEP = 1;
 int HP_Value = 100;
 int LP_Value = 20;
 int HD_Value = 1500;
-int LD_Value = 2400;
+int LD_Value = 2375;
 
 #define enable_motor true // useful for debugging without noise
 #define max_speed 200
@@ -261,7 +261,7 @@ void setup(){
      HP_Value = 100;
      LP_Value = 20;
      HD_Value = 1500;
-     LD_Value = 2400;
+     LD_Value = 2375;
       
      BTserial.print("*W");
      BTserial.print(HP_Value);

@@ -1,4 +1,4 @@
-/*  Simple H-Bridge CPU an Based CPAP with dynamic breaking*/
+/*  Simple H-Bridge CPU Fan Based CPAP with Dynamic Breaking*/
 
 #define enA 9
 #define in1 6

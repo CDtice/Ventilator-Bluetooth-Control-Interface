@@ -1,6 +1,6 @@
 #include <Blynk.h>
 
-/* ESP-01 simple timed breath cycle
+/* ESP-01 with Micro Fan Simple Timed Breath Cycle
   
 
 // the setup function runs once when you press reset or power the board

@@ -1,4 +1,4 @@
-# Ventilator Bluetooth Control Interface
+Bluetooth Android Phone Control Interface for Simple Arduino Based Ventilator
  
 Simple Bluetooth Android Phone Interface for Arduino Based Ventilator. 
 

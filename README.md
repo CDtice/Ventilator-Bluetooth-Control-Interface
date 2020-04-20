@@ -14,3 +14,7 @@ Use repository information at your own risk. I further encourage anyone consider
 Dedicated to my dad: ROBERT C. TICE 1921-2014  who instilled in me my passion for electronics.
 
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/OSPV.JPG)
+
+![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/OSPV.JPG)
+
+

@@ -15,6 +15,8 @@ Dedicated to my dad: ROBERT C. TICE 1921-2014  who instilled in me my passion fo
 
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/OSPV.JPG)
 
+Android Phone Bluetooth BiPAP inteface
+
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Display.png)
 
 

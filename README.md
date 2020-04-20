@@ -17,7 +17,7 @@ Dedicated to my dad: ROBERT C. TICE 1921-2014  who instilled in me my passion fo
 
 Mask Pressure sensor
 
-![BT OSPV open source personal ventilator]https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/MEMs_%20Module_SetUp.jpg
+![BT OSPV open source personal ventilator]https:(//github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/MEMs_%20Module_SetUp.jpg)
 
 Android Phone Bluetooth CPAP, BiPAP SYNC-Mode interface
 

@@ -1,5 +1,5 @@
 Keuwlsoft Bluetooth Electronics Panel File
-2020-04-13 14:39:15
+2020-04-20 09:51:36
 2
 
 *.kwl
@@ -13,6 +13,7 @@ add_text_box(1,7,3,L,Bi/CONT,245,240,245,)
 add_text_box(1,5,3,L,SYNC/R,245,240,245,)
 add_text(5,3,large,L,HD,0,0,255,)
 add_text(5,5,large,L,LP,0,255,0,)
+add_text(1,8,medium,L,© C. Tice,245,240,245,)
 add_switch(1,4,1,S,R,0,1)
 add_switch(1,2,1,O,F,0,1)
 add_switch(1,6,1,B,C,0,1)

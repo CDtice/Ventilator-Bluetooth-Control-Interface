@@ -21,7 +21,7 @@ Mask Pressure sensor
 
 Android Phone Bluetooth CPAP, BiPAP SYNC-Mode interface
 
-![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Display.png)
+![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Display.png
 
 Mini Desktop Ventilator Under Developement
 

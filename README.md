@@ -25,6 +25,6 @@ Android Phone Bluetooth CPAP, BiPAP SYNC-Mode interface
 
 Mini Desktop Ventilator Under Developement
 
-![BT OSPV open source personal ventilator]https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Mini_Vent.jpg
+![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Mini_Vent.jpg)
 
 

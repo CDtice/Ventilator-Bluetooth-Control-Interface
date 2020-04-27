@@ -27,7 +27,7 @@ Mini Desktop Ventilator Under Developement ...
 
 Eliminates ESC an replaces it with a $.05 cent transistor
 
-Eliminates Expensve Three Phase CPAP motor, uses $9.00 Brusless single phase motor
+Eliminates Expensive Three Phase CPAP motor, uses $9.00 Brushless single phase motor
 
 Final Version mounts motor in mask eliminating hose
 

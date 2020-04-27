@@ -27,7 +27,7 @@ Mini Desktop Ventilator Under Developement
 
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Mini_Vent.jpg)
 
-![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Schematics/MiniBiPAP.png)
+
 
 Micro IOT BiPAP and Remote Sensing Hub Under Developement
 

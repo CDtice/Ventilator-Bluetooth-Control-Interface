@@ -23,8 +23,6 @@ Android Phone Bluetooth CPAP, BiPAP SYNC-Mode interface
 
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Display.png)
 
-   
-
 Mini Desktop Ventilator Under Developement ...
 
 Eliminates ESC an replaces it with a $.05 cent transistor
@@ -37,8 +35,6 @@ Final Version mounts motor in mask eliminating hose
 
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Schematics/MiniBiPAP.png)
 
-   
-
-Micro IOT BiPAP and Remote Sensing Hub Under Developement
+Micro IOT BiPAP and Remote Sensing Hub Under Developement ...
 
 ![BT OSPV open source personal ventilator](https://github.com/CDtice/Ventilator-Bluetooth-Control-Interface/blob/master/Images/Micro%20BiPAP.jpg)  
